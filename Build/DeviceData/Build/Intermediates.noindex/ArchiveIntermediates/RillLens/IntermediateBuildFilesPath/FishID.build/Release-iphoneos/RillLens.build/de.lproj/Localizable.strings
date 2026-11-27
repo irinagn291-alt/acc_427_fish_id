@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fish ID</key>
+	<string>Fish ID</string>
+	<key>all</key>
+	<string>Alle Arten</string>
+	<key>analyzing</key>
+	<string>Merkmale werden analysiert…</string>
+	<key>autumn</key>
+	<string>Herbst</string>
+	<key>band</key>
+	<string>Großes Maul bis hinter das Auge; dunkles Seitenband.</string>
+	<key>barbels</key>
+	<string>Große Schuppen und zwei Paar Barteln am Maul.</string>
+	<key>bars</key>
+	<string>Dunkle Querbänder und orangerote Bauchflossen.</string>
+	<key>bassRule</key>
+	<string>Schwarzbarsche: insgesamt 5 pro Tag; nur einer ab 16 Zoll (40,6 cm). Florida-/Forellenbarsch: keine landesweite Mindestlänge. Für andere Arten gelten zusätzliche Einschränkungen.</string>
+	<key>bottom</key>
+	<string>Warmes, langsames Wasser mit weichem Grund. Sucht im Sediment nach Nahrung.</string>
+	<key>bronze</key>
+	<string>Bronzefarbene Flanken mit Bändern; Maul reicht etwa bis zum Auge.</string>
+	<key>browse</key>
+	<string>12 Arten entdecken</string>
+	<key>camera</key>
+	<string>Kamera öffnen</string>
+	<key>cancel</key>
+	<string>Abbrechen</string>
+	<key>challenge</key>
+	<string>Saisonale Fotoaufgabe</string>
+	<key>challengeBody</key>
+	<string>Fotografiere und bestätige diese Saison 3 verschiedene Arten. Beobachte behutsam und setze Fische schonend zurück.</string>
+	<key>cold</key>
+	<string>Kühle, sauerstoffreiche Flüsse und Seen. Frisst Insekten und kleine Wassertiere.</string>
+	<key>collection</key>
+	<string>Gesammelte Arten</string>
+	<key>confirm</key>
+	<string>Bestätigen und speichern</string>
+	<key>coverage</key>
+	<string>Offline-Referenz • Florida, USA</string>
+	<key>dailyBody</key>
+	<string>Entdecke die heutige Art im Offline-Fischführer.</string>
+	<key>day</key>
+	<string>ART DES TAGES</string>
+	<key>delete</key>
+	<string>Fund löschen</string>
+	<key>deleteAsk</key>
+	<string>Foto und Notiz von diesem Gerät löschen?</string>
+	<key>disable</key>
+	<string>Erinnerungen ausschalten</string>
+	<key>diskError</key>
+	<string>Der Fund konnte nicht gespeichert werden. Schaffe Speicherplatz und versuche es erneut.</string>
+	<key>done</key>
+	<string>Fertig</string>
+	<key>ear</key>
+	<string>Hoher Körper, dunkler Kiemendeckelfleck und Fleck an der Rückenflosse.</string>
+	<key>eelRule</key>
+	<string>Amerikanischer Aal: 25 pro Person und Tag; Mindestgesamtlänge 9 Zoll (22,9 cm). Ausnahmen für gekaufte Köder gelten.</string>
+	<key>empty</key>
+	<string>Dein Notizbuch beginnt hier.</string>
+	<key>emptyBody</key>
+	<string>Bestimme ein Foto und bestätige die Art, um deinen ersten Fund zu speichern.</string>
+	<key>emptyFav</key>
+	<string>Merke dir eine Art, um sie schnell zu finden.</string>
+	<key>enable</key>
+	<string>Erinnerungen aktivieren</string>
+	<key>error</key>
+	<string>Hinweis</string>
+	<key>export</key>
+	<string>Fundkarte in Fotos sichern</string>
+	<key>exported</key>
+	<string>Karte in Fotos gesichert</string>
+	<key>eyes</key>
+	<string>Reflektierende Augen und weiße Spitze am unteren Schwanzlappen.</string>
+	<key>favorite</key>
+	<string>Art merken</string>
+	<key>favorites</key>
+	<string>Favoriten</string>
+	<key>finds</key>
+	<string>Meine Funde</string>
+	<key>fish.bass</key>
+	<string>Forellenbarsch</string>
+	<key>fish.bluegill</key>
+	<string>Blauer Sonnenbarsch</string>
+	<key>fish.brook</key>
+	<string>Bachsaibling</string>
+	<key>fish.brown</key>
+	<string>Bachforelle</string>
+	<key>fish.carp</key>
+	<string>Karpfen</string>
+	<key>fish.crappie</key>
+	<string>Schwarzer Crappie</string>
+	<key>fish.perch</key>
+	<string>Flussbarsch</string>
+	<key>fish.pike</key>
+	<string>Hecht</string>
+	<key>fish.rainbow</key>
+	<string>Regenbogenforelle</string>
+	<key>fish.smallmouth</key>
+	<string>Schwarzbarsch</string>
+	<key>fish.tench</key>
+	<string>Schleie</string>
+	<key>fish.walleye</key>
+	<string>Glasaugenbarsch</string>
+	<key>guide</key>
+	<string>Fischführer</string>
+	<key>habitat</key>
+	<string>Lebensraum und Verhalten</string>
+	<key>hero</key>
+	<string>Entdecke deinen
+nächsten Fund.</string>
+	<key>how</key>
+	<string>Ein Fisch. Eine klare Seitenansicht.</string>
+	<key>howBody</key>
+	<string>Fülle das Bild mit dem Fisch. Vorschläge sind ein Anfang: Vergleiche die Merkmale vor dem Bestätigen.</string>
+	<key>identify</key>
+	<string>Bestimmen</string>
+	<key>illustration</key>
+	<string>Feldillustration</string>
+	<key>imageError</key>
+	<string>Das Bild konnte nicht gelesen werden. Wähle ein anderes Foto.</string>
+	<key>lakes</key>
+	<string>Seen und Flussbecken. Frisst kleine Fische und wirbellose Wassertiere.</string>
+	<key>license</key>
+	<string>Modelllizenz: MIT • Fishial / Wye Foundation</string>
+	<key>long</key>
+	<string>Langer Körper, breites Maul und helle Flecken auf grünen Flanken.</string>
+	<key>marble</key>
+	<string>Marmorierter Rücken und helle Vorderränder an unteren Flossen.</string>
+	<key>marks</key>
+	<string>Achte auf diese Merkmale</string>
+	<key>mlError</key>
+	<string>Das lokale Modell konnte die Analyse nicht abschließen. Nutze ein anderes Foto oder den Fischführer.</string>
+	<key>modelBody</key>
+	<string>Fishial v6 / ResNet18, in Core ML konvertiert. 281 Modellklassen; 12 ausführliche Süßwasserprofile. Werte sind unkalibrierte Vorschläge. Ein Fisch seitlich vor schlichtem Hintergrund liefert bessere Ergebnisse. Ähnliche oder unbekannte Arten können falsch sein. Nicht für Verzehr- oder Entnahmeentscheidungen nutzen.</string>
+	<key>noCamera</key>
+	<string>Die Kamera ist nicht verfügbar. Wähle ein Foto oder aktiviere die Kamera in den Einstellungen.</string>
+	<key>noProfile</key>
+	<string>Wissenschaftliche Bezeichnung aus dem lokalen Modell. Vergleiche mit einem Fachführer; diese Ausgabe enthält kein ausführliches Profil dieser Art.</string>
+	<key>noRegion</key>
+	<string>Andere Regionen sind in dieser Offline-Ausgabe nicht enthalten.</string>
+	<key>noResults</key>
+	<string>Keine Art gefunden</string>
+	<key>notes</key>
+	<string>Notizen</string>
+	<key>notifyDenied</key>
+	<string>Mitteilungen sind deaktiviert. Du kannst sie in den Systemeinstellungen aktivieren.</string>
+	<key>offline</key>
+	<string>LOKAL • OFFLINE</string>
+	<key>ok</key>
+	<string>OK</string>
+	<key>olive</key>
+	<string>Olivfarbener Körper, kleine Schuppen, rötliche Augen und runde Flossen.</string>
+	<key>openSettings</key>
+	<string>Einstellungen öffnen</string>
+	<key>peacockRule</key>
+	<string>Pfauenaugenbuntbarsch: 2 pro Tag; nur einer ab 17 Zoll (43,2 cm).</string>
+	<key>photo</key>
+	<string>Foto auswählen</string>
+	<key>photoDenied</key>
+	<string>Erlaube das Hinzufügen von Fotos in den Einstellungen, um eine Fundkarte zu exportieren.</string>
+	<key>pink</key>
+	<string>Rosa Seitenstreifen und dunkle Punkte, auch am Schwanz.</string>
+	<key>privacy</key>
+	<string>Datenschutz und Modell</string>
+	<key>privacyBody</key>
+	<string>Fotos und Notizen bleiben auf diesem Gerät. Kein Konto, Tracking, Werbung oder Upload. Beim Löschen eines Fundes wird das lokale Foto entfernt. Backups folgen den Geräteeinstellungen. Widgets lesen nur eine lokale Zusammenfassung.</string>
+	<key>protectedRule</key>
+	<string>Alligatorhecht und Graskarpfen: Besitz nur mit Genehmigung; sonst sofort freilassen.</string>
+	<key>recent</key>
+	<string>Letzte Funde</string>
+	<key>red</key>
+	<string>Braungoldene Flanken mit dunklen und oft roten Punkten.</string>
+	<key>region</key>
+	<string>Region</string>
+	<key>reminderValue</key>
+	<string>Erhalte um 9 Uhr einen Artenhinweis und zu Saisonbeginn eine Fotoaufgabe. Nur auf diesem Gerät geplant.</string>
+	<key>reminders</key>
+	<string>Lokale Erinnerungen</string>
+	<key>rocks</key>
+	<string>Klare Seen und Flüsse mit Felsen. Frisst Krebse und kleine Fische.</string>
+	<key>ruleWarning</key>
+	<string>Zusammenfassung für Süßwasser in Florida. Lokale Gewässer, Genehmigungen und geschützte Arten können strengere Regeln haben. Prüfe die amtlichen Regeln vor jeder Entnahme. Fotoerkennung bestimmt keine rechtliche Artzuordnung.</string>
+	<key>rules</key>
+	<string>Regeln</string>
+	<key>sample</key>
+	<string>Beispielfoto testen</string>
+	<key>sampleNotSaved</key>
+	<string>Beispielscans zählen nicht zur Statistik.</string>
+	<key>sampleNotice</key>
+	<string>Beispielfoto • Fishial-Modellpaket</string>
+	<key>saveNote</key>
+	<string>Notiz speichern</string>
+	<key>saved</key>
+	<string>Fund gespeichert</string>
+	<key>score</key>
+	<string>Modellwert, keine Gewissheit</string>
+	<key>search</key>
+	<string>Name oder wissenschaftlicher Name</string>
+	<key>seasonNote</key>
+	<string>Die Zeit variiert mit Breitengrad und Wassertemperatur. Dies ist Biologie, keine Fangfreigabe.</string>
+	<key>seasonRule</key>
+	<string>Allgemeine Süßwassersaison: 1. Juli–30. Juni, sofern keine Sonderregel gilt. Gewässersperren und artspezifische Ausnahmen haben Vorrang.</string>
+	<key>select</key>
+	<string>Art manuell wählen</string>
+	<key>settings</key>
+	<string>Einstellungen</string>
+	<key>size</key>
+	<string>Typische Länge adulter Tiere</string>
+	<key>source</key>
+	<string>Amtliche Quelle</string>
+	<key>spawn</key>
+	<string>Laichzeit • Nordhalbkugel</string>
+	<key>speciesCount</key>
+	<string>Bestätigte Funde</string>
+	<key>speckle</key>
+	<string>Hoher silbriger Körper mit unregelmäßigen dunklen Flecken.</string>
+	<key>spring</key>
+	<string>Frühling</string>
+	<key>springSummer</key>
+	<string>Frühling–Sommer</string>
+	<key>stats</key>
+	<string>Funde der Woche</string>
+	<key>suggestions</key>
+	<string>Mögliche Treffer</string>
+	<key>tagline</key>
+	<string>Dein Fischführer für unterwegs.</string>
+	<key>uncertain</key>
+	<string>Kein sicherer Treffer. Nutze eine helle Nahaufnahme von der Seite oder wähle eine Art aus dem Fischführer.</string>
+	<key>verified</key>
+	<string>Geprüft am 15. Nov. 2026</string>
+	<key>weeds</key>
+	<string>Bewachsene Seen, Teiche und langsame Flüsse. Lauert nahe Verstecken.</string>
+	<key>week</key>
+	<string>Scans diese Woche</string>
+	<key>widgetDesc</key>
+	<string>Art des Tages, Sammlung und Laichzeiten.</string>
+	<key>widgetName</key>
+	<string>Fish ID Feldnotizen</string>
+</dict>
+</plist>

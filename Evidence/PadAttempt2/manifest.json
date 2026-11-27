@@ -1,0 +1,223 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "8F8E0F38-162E-4F0B-924A-6C436E011CD0",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.28 PM",
+        "timestamp" : 1794744208.797
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "21008BF5-8D34-46F5-89CF-7F3BA37C6D38",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.29 PM",
+        "timestamp" : 1794744209.085
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "028C15E4-4F90-4D8E-B147-BB39EE17B11B.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-species_0_4E96FFEE-B2C0-4716-8B8E-052A35A50757.png",
+        "timestamp" : 1794744204.465
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "D1D60E9D-66E9-44FC-9B93-087FDA3D5F0F",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.24 PM",
+        "timestamp" : 1794744204.058
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "70641720-4D44-4461-A861-1EDB8C7A5A3F",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.24 PM",
+        "timestamp" : 1794744204.346
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "92513B83-132B-4751-A495-7147027A68FC",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.22 PM",
+        "timestamp" : 1794744202.276
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "2814B66C-A840-4BF8-B3B4-780B48AE44E9",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.22 PM",
+        "timestamp" : 1794744202.564
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "0C74C959-D762-4176-BAD4-9E7556A2C073.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-field-guide_0_2D8DCED0-107B-4625-B29D-6EF07ACF28E2.png",
+        "timestamp" : 1794744202.204
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "1E4D55D2-5D9C-4117-AEF1-021452BC2994",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.19 PM",
+        "timestamp" : 1794744199.467
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "F95616B6-EBD4-4430-A972-34C60F2B2584",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.19 PM",
+        "timestamp" : 1794744199.755
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "E61853F8-559A-42BB-AFDF-7D185D480972",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.18 PM",
+        "timestamp" : 1794744198.764
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "A1D65D0A-8618-4CE1-BD27-B28F61225BE3",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.19 PM",
+        "timestamp" : 1794744199.051
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "B1D1AA6A-EED8-43B4-A846-E1AFF7A9B1C6",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.17 PM",
+        "timestamp" : 1794744197.654
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "64A1B952-4E10-43C0-9F36-A95D41681AC1",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.18 PM",
+        "timestamp" : 1794744198.069
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "DE4EFBFB-E062-4749-982D-BBDC3DD310C5.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-coreml-results_0_03BD130F-6EAD-45BB-AF8C-1F2D01EEA538.png",
+        "timestamp" : 1794744197.593
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "99FABDEF-B9B2-45BC-9803-174D0D484046",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.15 PM",
+        "timestamp" : 1794744195.601
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "F0C4691A-6397-4D19-ABB1-F3F4508D8786",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.15 PM",
+        "timestamp" : 1794744195.89
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "2E18E9A0-5CD5-453C-85AB-5A19E8A22D9E",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.14 PM",
+        "timestamp" : 1794744194.524
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "E846362D-D60C-4220-A933-FCCAECED3503",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.03.14 PM",
+        "timestamp" : 1794744194.946
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "42FA62CC-F6DF-478B-A6AA-BE08EAD73A15.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-identify_0_8461783B-712F-496B-B0A7-F4B46E29FD74.png",
+        "timestamp" : 1794744194.461
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "D763D73B-C3AD-4FFA-BF48-6D10FEB75ADD.mp4",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Screen Recording 2026-11-15 at 03.03.09 PM.mp4",
+        "timestamp" : 1794744189.314
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "05CC6ACB-45AA-4DE7-8D83-4A2D850479BB.txt",
+        "isAssociatedWithFailure" : true,
+        "suggestedHumanReadableName" : "Complete Issue Description.txt"
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "FD01DB6A-CF89-45B1-AE0D-ED2E5C7CAD3E.txt",
+        "isAssociatedWithFailure" : true,
+        "suggestedHumanReadableName" : "App UI hierarchy for org.rillatlas.fishlens_0_FAA14BDA-C193-452F-9134-2E6523A901F5.8e47",
+        "timestamp" : 1794744212.625
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "50D1691C-1EDA-46CC-803C-6BCD68BE8FE3",
+        "deviceName" : "GF isolated manual-qa 779b5902d57045b080628ed20871f45a iPad Pro 13-inch (M5)",
+        "exportedFileName" : "97134625-2462-4739-AD88-81B346C9AEF0",
+        "isAssociatedWithFailure" : true,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.03.32 PM",
+        "timestamp" : 1794744212.625
+      }
+    ],
+    "testIdentifier" : "RillChecks/testCoreJourney()",
+    "testIdentifierURL" : "test://com.apple.xcode/FishID/RillChecks/RillChecks/testCoreJourney"
+  }
+]

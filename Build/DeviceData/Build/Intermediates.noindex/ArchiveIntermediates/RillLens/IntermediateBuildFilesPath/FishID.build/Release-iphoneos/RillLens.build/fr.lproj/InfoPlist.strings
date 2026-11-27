@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Photographiez un poisson pour l’identifier sur cet appareil.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Ajoutez une fiche de votre découverte confirmée dans Photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choisissez une image à analyser localement dans Fish ID.</string>
+</dict>
+</plist>

@@ -1,0 +1,72 @@
+Application, 0x104fc92c0, pid: 92354, label: 'Fish ID' <App element pid: 92354>
+  Window (Main), 0x104fc9680, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4364795904.4>
+    Other, 0x104fc9900, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4366002176.6>
+    Other, 0x104fc9cc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4409124864.7>
+      Other, 0x104fc9a40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4409126144.9>
+        Other, 0x104fca080, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4364814848.11>
+          Other, 0x104fca300, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4561434208.12>
+            Other, 0x104fc9f40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4365995008.13>
+              Other, 0x104fca440, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4408795264.14>
+                Other, 0x104fca6c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4409104384.16>
+                  Other, 0x104fca800, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4364817408.18>
+                    Other, 0x104fca580, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4561430208.23>
+                      Other, 0x104fca940, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4561429728.28>
+                        Other, 0x104fcabc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4409001984.29>
+                          Other, 0x104fcad00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4435105920.30>
+                            Other, 0x104fcaa80, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4409009664.32>
+                              Other, 0x104fcae40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4364811264.34>
+                                Other, 0x104fcb0c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4435465696.35>
+                                  ScrollView, 0x104fcb200, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4366126080.36>
+                                    Other, 0x104fcaf80, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4435105024.37>
+                                      Other, 0x104fcb340, {{0.0, 0.0}, {1032.0, 116.0}} <AX element pid: 92354, elementOrHash.elementID: 4435112640.41>
+                                    Other, 0x104fcb480, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4435104576.38>
+                                    Other, 0x104fcb700, {{0.0, 96.0}, {1032.0, 929.5}} <AX element pid: 92354, elementOrHash.elementID: 4435745024.39>
+                                      Image, 0x104fcb5c0, {{88.5, 126.0}, {21.5, 21.5}}, identifier: 'viewfinder', label: 'Scan' <AX element pid: 92354, elementOrHash.elementID: 4561429888.42>
+                                      StaticText, 0x104fcb840, {{122.5, 120.0}, {91.0, 33.5}}, label: 'Fish ID' <AX element pid: 92354, elementOrHash.elementID: 4561432768.43>
+                                      Button, 0x104fcb980, {{901.0, 116.0}, {45.0, 41.5}}, identifier: 'preferences', label: 'Preferences' <AX element pid: 92354, elementOrHash.elementID: 4561433248.44>
+                                      StaticText, 0x104fcbc00, {{110.0, 205.5}, {160.0, 13.5}}, label: 'ON-DEVICE • OFFLINE' <AX element pid: 92354, elementOrHash.elementID: 4561432928.45>
+                                      StaticText, 0x104fcbac0, {{110.0, 233.0}, {248.0, 91.0}}, label: 'Meet your
+next discovery.' <AX element pid: 92354, elementOrHash.elementID: 4561432608.46>
+                                      Other, 0x104fcbd40, {{349.0, 338.0}, {334.0, 176.0}}, label: 'Field illustration' <AX element pid: 92354, elementOrHash.elementID: 4561429088.47>
+                                      Image, 0x104fcbe80, {{111.5, 529.5}, {17.0, 17.0}}, identifier: 'circle.dotted', label: 'Dotted Circle' <AX element pid: 92354, elementOrHash.elementID: 4561434048.48>
+                                      StaticText, 0x104fc8c80, {{138.0, 532.0}, {111.5, 12.0}}, label: 'Field illustration' <AX element pid: 92354, elementOrHash.elementID: 4561433568.49>
+                                      StaticText, 0x104fc88c0, {{878.5, 532.0}, {43.5, 12.0}}, label: '01 / 12' <AX element pid: 92354, elementOrHash.elementID: 4561434368.50>
+                                      Button, 0x104e970c0, {{86.0, 596.0}, {424.0, 68.0}}, identifier: 'openCamera', label: 'Open camera' <AX element pid: 92354, elementOrHash.elementID: 4561431328.51>
+                                        StaticText, 0x104e97340, {{86.0, 596.0}, {424.0, 68.0}}, label: 'Open camera' <AX element pid: 92354, elementOrHash.elementID: 4561434688.59>
+                                        Image, 0x104e97480, {{230.5, 621.5}, {21.0, 16.5}}, identifier: 'camera.fill', label: 'Camera' <AX element pid: 92354, elementOrHash.elementID: 4561435008.60>
+                                      Button, 0x104e975c0, {{522.0, 596.0}, {424.0, 68.0}}, identifier: 'choosePhoto', label: 'Choose a photo' <AX element pid: 92354, elementOrHash.elementID: 4561435328.52>
+                                        StaticText, 0x104e97840, {{522.0, 596.0}, {424.0, 68.0}}, label: 'Choose a photo' <AX element pid: 92354, elementOrHash.elementID: 4561429248.61>
+                                        Image, 0x104e97980, {{658.0, 622.0}, {20.0, 16.0}}, identifier: 'photo', label: 'Photo' <AX element pid: 92354, elementOrHash.elementID: 4561435168.62>
+                                      StaticText, 0x104e97700, {{108.0, 708.0}, {239.0, 20.5}}, label: 'One fish. A clear side view.' <AX element pid: 92354, elementOrHash.elementID: 4561421888.53>
+                                      StaticText, 0x104e94f00, {{106.0, 742.5}, {702.0, 18.0}}, label: 'Fill the frame with the fish. Suggestions are a starting point: compare the markings before you confirm.' <AX element pid: 92354, elementOrHash.elementID: 4561434848.54>
+                                      Button, 0x104e94780, {{106.0, 774.5}, {820.0, 20.5}}, identifier: 'samplePhoto', label: 'Try a sample photo' <AX element pid: 92354, elementOrHash.elementID: 4561435648.55>
+                                        StaticText, 0x108320000, {{106.0, 774.5}, {145.5, 20.5}}, label: 'Try a sample photo' <AX element pid: 92354, elementOrHash.elementID: 4561436288.63>
+                                        Image, 0x108320140, {{911.5, 778.5}, {12.5, 12.5}}, identifier: 'arrow.up.right', label: 'Up-Right Diagonal Arrow' <AX element pid: 92354, elementOrHash.elementID: 4561436128.64>
+                                      Button, 0x108320280, {{86.0, 839.0}, {860.0, 122.0}}, label: 'Field illustration, SPECIES OF THE DAY, European perch, Perca fluviatilis' <AX element pid: 92354, elementOrHash.elementID: 4435465216.56>
+                                        Other, 0x1083203c0, {{102.0, 855.0}, {110.0, 90.0}}, label: 'Field illustration' <AX element pid: 92354, elementOrHash.elementID: 4561430048.65>
+                                        StaticText, 0x108320500, {{230.0, 869.8}, {151.5, 13.5}}, label: 'SPECIES OF THE DAY' <AX element pid: 92354, elementOrHash.elementID: 4561430368.66>
+                                        StaticText, 0x108320640, {{230.0, 889.2}, {125.5, 20.5}}, label: 'European perch' <AX element pid: 92354, elementOrHash.elementID: 4561435968.67>
+                                        Image, 0x108320780, {{920.5, 893.0}, {8.5, 14.5}}, identifier: 'chevron.right', label: 'Forward' <AX element pid: 92354, elementOrHash.elementID: 4435466336.68>
+                                        StaticText, 0x1083208c0, {{230.0, 915.8}, {86.0, 14.5}}, label: 'Perca fluviatilis' <AX element pid: 92354, elementOrHash.elementID: 4561436448.69>
+                                      Button, 0x108320a00, {{94.0, 985.0}, {844.0, 20.5}}, label: 'Browse 12 species' <AX element pid: 92354, elementOrHash.elementID: 4435466656.57>
+                                        StaticText, 0x108320b40, {{94.0, 985.0}, {146.5, 20.5}}, label: 'Browse 12 species' <AX element pid: 92354, elementOrHash.elementID: 4435466016.70>
+                                        Image, 0x108320c80, {{920.5, 989.0}, {15.5, 13.0}}, identifier: 'arrow.right', label: 'Right' <AX element pid: 92354, elementOrHash.elementID: 4435465376.71>
+                                    Other, 0x108320dc0, {{999.0, 96.0}, {30.0, 1248.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 92354, elementOrHash.elementID: 4409011712.40>
+                                      Other, 0x108320f00, {{1026.0, 429.5}, {3.0, 911.5}} <AX element pid: 92354, elementOrHash.elementID: 4435111296.58>
+                                    Other, 0x108321040, {{999.0, 96.0}, {30.0, 1248.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 92354, elementOrHash.elementID: 4409011712.40>
+                                      Other, 0x108321180, {{1026.0, 429.5}, {3.0, 911.5}} <AX element pid: 92354, elementOrHash.elementID: 4435111296.58>
+                          Toolbar, 0x1083212c0, {{0.0, 0.0}, {1032.0, 1376.0}}, identifier: 'Toolbar', label: 'Toolbar' <AX element pid: 92354, elementOrHash.elementID: 4409002496.31>
+                            Other, 0x108321400, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4435747584.33>
+              Other, 0x108321540, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4364800000.15>
+                Other, 0x108321680, {{0.0, 32.0}, {1032.0, 44.0}} <AX element pid: 92354, elementOrHash.elementID: 4366155776.17>
+                  Button, 0x1083217c0, {{322.5, 36.0}, {91.5, 36.0}}, identifier: 'viewfinder', label: 'Identify', Selected <AX element pid: 92354, elementOrHash.elementID: 4408911616.19>
+                    Button, 0x108321900, {{322.5, 36.0}, {91.5, 36.0}}, identifier: 'viewfinder', label: 'Identify', Selected <AX element pid: 92354, elementOrHash.elementID: 4409111040.24>
+                  Button, 0x108321a40, {{414.0, 36.0}, {117.5, 36.0}}, identifier: 'fish', label: 'Field guide' <AX element pid: 92354, elementOrHash.elementID: 4408912384.20>
+                    Button, 0x108321b80, {{414.0, 36.0}, {117.5, 36.0}}, identifier: 'fish', label: 'Field guide' <AX element pid: 92354, elementOrHash.elementID: 4409113600.25>
+                  Button, 0x108321cc0, {{531.5, 36.0}, {99.0, 36.0}}, identifier: 'square.stack', label: 'My finds' <AX element pid: 92354, elementOrHash.elementID: 4408913152.21>
+                    Button, 0x108321e00, {{531.5, 36.0}, {99.0, 36.0}}, identifier: 'square.stack', label: 'My finds' <AX element pid: 92354, elementOrHash.elementID: 4409050624.26>
+                  Button, 0x108321f40, {{630.5, 36.0}, {79.0, 36.0}}, identifier: 'book.closed', label: 'Limits' <AX element pid: 92354, elementOrHash.elementID: 4408913920.22>
+                    Button, 0x108322080, {{630.5, 36.0}, {79.0, 36.0}}, identifier: 'book.closed', label: 'Limits' <AX element pid: 92354, elementOrHash.elementID: 4409053184.27>
+  Window, 0x1083221c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4436672512.5>
+    Other, 0x108322300, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4408957440.8>
+      Other, 0x108322440, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 92354, elementOrHash.elementID: 4408958976.10>

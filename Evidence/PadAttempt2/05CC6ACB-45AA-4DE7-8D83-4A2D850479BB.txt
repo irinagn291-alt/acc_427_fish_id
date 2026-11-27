@@ -1,0 +1,48 @@
+Failed to tap "Favorites" Button: No matches found for Elements matching predicate '"Favorites" IN identifiers' from input {(
+    Button, identifier: 'viewfinder', label: 'Identify',
+    Button, identifier: 'fish', label: 'Field guide', Selected,
+    Button, identifier: 'square.stack', label: 'My finds',
+    Button, identifier: 'book.closed', label: 'Limits',
+    Button, identifier: 'viewfinder', label: 'Identify',
+    Button, identifier: 'fish', label: 'Field guide', Selected,
+    Button, identifier: 'square.stack', label: 'My finds',
+    Button, identifier: 'book.closed', label: 'Limits',
+    Button, identifier: 'species-bass', label: 'Field illustration, Largemouth bass, Micropterus salmoides, 25–55 cm',
+    Button, identifier: 'species-rainbow', label: 'Field illustration, Rainbow trout, Oncorhynchus mykiss, 20–60 cm',
+    Button, identifier: 'species-pike', label: 'Field illustration, Northern pike, Esox lucius, 40–100 cm',
+    Button, identifier: 'species-perch', label: 'Field illustration, European perch, Perca fluviatilis, 15–40 cm',
+    Button, identifier: 'species-carp', label: 'Field illustration, Common carp, Cyprinus carpio, 30–80 cm',
+    Button, identifier: 'species-bluegill', label: 'Field illustration, Bluegill, Lepomis macrochirus, 10–25 cm',
+    Button, identifier: 'species-tench', label: 'Field illustration, Tench, Tinca tinca, 20–50 cm',
+    Button, identifier: 'species-walleye', label: 'Field illustration, Walleye, Sander vitreus, 30–70 cm',
+    Button, identifier: 'species-crappie', label: 'Field illustration, Black crappie, Pomoxis nigromaculatus, 15–35 cm',
+    Button, identifier: 'species-brown', label: 'Field illustration, Brown trout, Salmo trutta, 20–60 cm',
+    Button, identifier: 'species-smallmouth', label: 'Field illustration, Smallmouth bass, Micropterus dolomieu, 25–50 cm',
+    Button, identifier: 'species-brook', label: 'Field illustration, Brook trout, Salvelinus fontinalis, 15–40 cm'
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Button from legacy attributes vs Cell from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 75;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeTraits" = 146297323528;
+}
+Automation type mismatch: computed Button from legacy attributes vs Cell from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 75;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeTraits" = 146297323520;
+}
+Automation type mismatch: computed Button from legacy attributes vs Other from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 0;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeTraits" = 8858370048;
+}
+Automation type mismatch: computed Button from legacy attributes vs Other from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 0;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeTraits" = 8858370056;
+}
+See test report attachments for more detail.

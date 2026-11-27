@@ -1,0 +1,110 @@
+Application, 0x102be5180, pid: 93142, label: 'Fish ID' <App element pid: 93142>
+  Window (Main), 0x102be5400, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4369006592.4>
+    Other, 0x102be5900, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4370211840.6>
+    Other, 0x102be57c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413355776.7>
+      Other, 0x102be5cc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413357056.9>
+        Other, 0x102be5a40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4369025536.11>
+          Other, 0x102be5e00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4548639744.12>
+            Other, 0x102be61c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4370203648.13>
+              Other, 0x102be6300, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413022976.14>
+                Other, 0x102be6080, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413118464.72>
+                  Other, 0x102be6940, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4369030656.73>
+                    Other, 0x102be6bc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4561918368.74>
+                      Other, 0x102be75c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4561918048.75>
+                        Other, 0x102be7c00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413126144.76>
+                          NavigationBar, 0x102be6a80, {{0.0, 32.0}, {1032.0, 106.0}}, identifier: 'Field guide' <AX element pid: 93142, elementOrHash.elementID: 4547727872.77>
+                            SearchField, 0x102be7200, {{782.0, 32.0}, {240.0, 44.0}}, label: 'Name or scientific name', placeholderValue: 'Name or scientific name' <AX element pid: 93142, elementOrHash.elementID: 4589223936.80>
+                              Image, 0x102be6e40, {{794.0, 43.5}, {20.5, 20.0}}, identifier: 'magnifyingglass', label: 'Search' <AX element pid: 93142, elementOrHash.elementID: 4589241600.84>
+                            StaticText, 0x102be66c0, {{20.0, 89.5}, {172.5, 41.0}}, label: 'Field guide' <AX element pid: 93142, elementOrHash.elementID: 4413121536.81>
+                          Other, 0x102be6800, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4559394048.78>
+                            Other, 0x102be6580, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413326848.82>
+                              Other, 0x102be7840, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4532941824.85>
+                                Other, 0x102be70c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4591585472.86>
+                                  ScrollView, 0x102be7700, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4370342912.87>
+                                    Other, 0x102be7480, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4559393152.88>
+                                      Other, 0x102be6440, {{0.0, 0.0}, {1032.0, 126.0}} <AX element pid: 93142, elementOrHash.elementID: 4589932032.92>
+                                    Other, 0x102be7ac0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4559392704.89>
+                                    Other, 0x102be48c0, {{0.0, 138.0}, {1032.0, 762.5}} <AX element pid: 93142, elementOrHash.elementID: 4550032384.90>
+                                      StaticText, 0x102be43c0, {{20.0, 163.2}, {126.5, 18.0}}, label: 'Browse 12 species' <AX element pid: 93142, elementOrHash.elementID: 4561927968.93>
+                                      Switch, 0x102be6f80, {{948.5, 165.0}, {51.5, 14.5}}, label: 'Favorites', value: 0 <AX element pid: 93142, elementOrHash.elementID: 4561914848.94>
+                                      Other, 0x102be7340, {{20.0, 206.5}, {992.0, 674.0}} <AX element pid: 93142, elementOrHash.elementID: 4591585152.95>
+                                        Button, 0x102be6d00, {{20.0, 206.5}, {185.5, 214.0}}, identifier: 'species-bass', label: 'Field illustration, Largemouth bass, Micropterus salmoides, 25–55 cm' <AX element pid: 93142, elementOrHash.elementID: 4561918848.97>
+                                          Other, 0x102be7980, {{32.0, 218.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4561927808.109>
+                                          StaticText, 0x102be7d40, {{32.0, 336.5}, {138.0, 20.5}}, label: 'Largemouth bass' <AX element pid: 93142, elementOrHash.elementID: 4561917728.110>
+                                          StaticText, 0x102be7e80, {{32.0, 365.0}, {119.0, 13.5}}, label: 'Micropterus salmoides' <AX element pid: 93142, elementOrHash.elementID: 4561925888.111>
+                                          StaticText, 0x102a8f0c0, {{32.0, 388.5}, {59.5, 14.5}}, label: '25–55 cm' <AX element pid: 93142, elementOrHash.elementID: 4561927648.112>
+                                          Image, 0x102a8f200, {{175.0, 388.0}, {16.5, 15.5}}, identifier: 'heart.fill', label: 'Love' <AX element pid: 93142, elementOrHash.elementID: 4561917888.113>
+                                        Button, 0x102a8f480, {{221.5, 206.5}, {185.5, 214.0}}, identifier: 'species-rainbow', label: 'Field illustration, Rainbow trout, Oncorhynchus mykiss, 20–60 cm' <AX element pid: 93142, elementOrHash.elementID: 4561919008.98>
+                                          Other, 0x102a8f5c0, {{233.5, 218.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4561923168.114>
+                                          StaticText, 0x102a8f840, {{233.6, 336.5}, {111.5, 20.5}}, label: 'Rainbow trout' <AX element pid: 93142, elementOrHash.elementID: 4561918208.115>
+                                          StaticText, 0x102a8f980, {{233.6, 365.0}, {115.0, 13.5}}, label: 'Oncorhynchus mykiss' <AX element pid: 93142, elementOrHash.elementID: 4561926048.116>
+                                          StaticText, 0x102a8f700, {{233.6, 386.5}, {59.5, 14.5}}, label: '20–60 cm' <AX element pid: 93142, elementOrHash.elementID: 4561927488.117>
+                                        Button, 0x102a8cf00, {{423.0, 206.5}, {186.0, 214.0}}, identifier: 'species-pike', label: 'Field illustration, Northern pike, Esox lucius, 40–100 cm' <AX element pid: 93142, elementOrHash.elementID: 4531705152.99>
+                                          Other, 0x102a8c780, {{435.0, 218.5}, {162.0, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4561923968.118>
+                                          StaticText, 0x1062e0000, {{435.2, 336.5}, {109.0, 20.5}}, label: 'Northern pike' <AX element pid: 93142, elementOrHash.elementID: 4561922368.119>
+                                          StaticText, 0x1062e0140, {{435.2, 365.0}, {58.5, 13.5}}, label: 'Esox lucius' <AX element pid: 93142, elementOrHash.elementID: 4531703072.120>
+                                          StaticText, 0x1062e0280, {{435.2, 386.5}, {67.0, 14.5}}, label: '40–100 cm' <AX element pid: 93142, elementOrHash.elementID: 4531705632.121>
+                                        Button, 0x1062e03c0, {{625.0, 206.5}, {185.5, 214.0}}, identifier: 'species-perch', label: 'Field illustration, European perch, Perca fluviatilis, 15–40 cm' <AX element pid: 93142, elementOrHash.elementID: 4531702432.100>
+                                          Other, 0x1062e0500, {{637.0, 218.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4531702112.122>
+                                          StaticText, 0x1062e0640, {{636.8, 336.5}, {125.5, 20.5}}, label: 'European perch' <AX element pid: 93142, elementOrHash.elementID: 4531704672.123>
+                                          StaticText, 0x1062e0780, {{636.8, 365.0}, {80.0, 13.5}}, label: 'Perca fluviatilis' <AX element pid: 93142, elementOrHash.elementID: 4531705472.124>
+                                          StaticText, 0x1062e08c0, {{636.8, 386.5}, {59.5, 14.5}}, label: '15–40 cm' <AX element pid: 93142, elementOrHash.elementID: 4531704832.125>
+                                        Button, 0x1062e0a00, {{826.5, 206.5}, {185.5, 214.0}}, identifier: 'species-carp', label: 'Field illustration, Common carp, Cyprinus carpio, 30–80 cm' <AX element pid: 93142, elementOrHash.elementID: 4368560320.101>
+                                          Other, 0x1062e0b40, {{838.5, 218.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4531702272.126>
+                                          StaticText, 0x1062e0c80, {{838.4, 336.5}, {112.0, 20.5}}, label: 'Common carp' <AX element pid: 93142, elementOrHash.elementID: 4531705952.127>
+                                          StaticText, 0x1062e0dc0, {{838.4, 365.0}, {83.0, 13.5}}, label: 'Cyprinus carpio' <AX element pid: 93142, elementOrHash.elementID: 4531706272.128>
+                                          StaticText, 0x1062e0f00, {{838.4, 386.5}, {59.5, 14.5}}, label: '30–80 cm' <AX element pid: 93142, elementOrHash.elementID: 4368561600.129>
+                                        Button, 0x1062e1040, {{20.0, 436.5}, {185.5, 214.0}}, identifier: 'species-bluegill', label: 'Field illustration, Bluegill, Lepomis macrochirus, 10–25 cm' <AX element pid: 93142, elementOrHash.elementID: 4548636384.102>
+                                          Other, 0x1062e1180, {{32.0, 448.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4415398336.130>
+                                          StaticText, 0x1062e12c0, {{32.0, 566.5}, {58.5, 20.5}}, label: 'Bluegill' <AX element pid: 93142, elementOrHash.elementID: 4415398976.131>
+                                          StaticText, 0x1062e1400, {{32.0, 595.0}, {112.0, 13.5}}, label: 'Lepomis macrochirus' <AX element pid: 93142, elementOrHash.elementID: 4415404736.132>
+                                          StaticText, 0x1062e1540, {{32.0, 616.5}, {59.5, 14.5}}, label: '10–25 cm' <AX element pid: 93142, elementOrHash.elementID: 4548627264.133>
+                                        Button, 0x1062e1680, {{221.5, 436.5}, {185.5, 214.0}}, identifier: 'species-tench', label: 'Field illustration, Tench, Tinca tinca, 20–50 cm' <AX element pid: 93142, elementOrHash.elementID: 4548636544.103>
+                                          Other, 0x1062e17c0, {{233.5, 448.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4548636704.134>
+                                          StaticText, 0x1062e1900, {{233.6, 566.5}, {48.0, 20.5}}, label: 'Tench' <AX element pid: 93142, elementOrHash.elementID: 4548635744.135>
+                                          StaticText, 0x1062e1a40, {{233.6, 595.0}, {57.5, 13.5}}, label: 'Tinca tinca' <AX element pid: 93142, elementOrHash.elementID: 4548638304.136>
+                                          StaticText, 0x1062e1b80, {{233.6, 616.5}, {59.5, 14.5}}, label: '20–50 cm' <AX element pid: 93142, elementOrHash.elementID: 4548639104.137>
+                                        Button, 0x1062e1cc0, {{423.0, 436.5}, {186.0, 214.0}}, identifier: 'species-walleye', label: 'Field illustration, Walleye, Sander vitreus, 30–70 cm' <AX element pid: 93142, elementOrHash.elementID: 4548632224.104>
+                                          Other, 0x1062e1e00, {{435.0, 448.5}, {162.0, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4548635584.138>
+                                          StaticText, 0x1062e1f40, {{435.2, 566.5}, {62.0, 20.5}}, label: 'Walleye' <AX element pid: 93142, elementOrHash.elementID: 4548632384.139>
+                                          StaticText, 0x1062e2080, {{435.2, 595.0}, {76.0, 13.5}}, label: 'Sander vitreus' <AX element pid: 93142, elementOrHash.elementID: 4548639264.140>
+                                          StaticText, 0x1062e21c0, {{435.2, 616.5}, {59.5, 14.5}}, label: '30–70 cm' <AX element pid: 93142, elementOrHash.elementID: 4548637344.141>
+                                        Button, 0x1062e2300, {{625.0, 436.5}, {185.5, 214.0}}, identifier: 'species-crappie', label: 'Field illustration, Black crappie, Pomoxis nigromaculatus, 15–35 cm' <AX element pid: 93142, elementOrHash.elementID: 4548635424.105>
+                                          Other, 0x1062e2440, {{637.0, 448.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4548639584.142>
+                                          StaticText, 0x1062e2580, {{636.8, 566.5}, {107.5, 20.5}}, label: 'Black crappie' <AX element pid: 93142, elementOrHash.elementID: 4548635904.143>
+                                          StaticText, 0x1062e26c0, {{636.8, 595.0}, {127.5, 13.5}}, label: 'Pomoxis nigromaculatus' <AX element pid: 93142, elementOrHash.elementID: 4548640064.144>
+                                          StaticText, 0x1062e2800, {{636.8, 616.5}, {59.5, 14.5}}, label: '15–35 cm' <AX element pid: 93142, elementOrHash.elementID: 4548639904.145>
+                                        Button, 0x1062e2940, {{826.5, 436.5}, {185.5, 214.0}}, identifier: 'species-brown', label: 'Field illustration, Brown trout, Salmo trutta, 20–60 cm' <AX element pid: 93142, elementOrHash.elementID: 4591583392.106>
+                                          Other, 0x1062e2a80, {{838.5, 448.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4548637664.146>
+                                          StaticText, 0x1062e2bc0, {{838.4, 566.5}, {94.0, 20.5}}, label: 'Brown trout' <AX element pid: 93142, elementOrHash.elementID: 4548640224.147>
+                                          StaticText, 0x1062e2d00, {{838.4, 595.0}, {64.5, 13.5}}, label: 'Salmo trutta' <AX element pid: 93142, elementOrHash.elementID: 4548640384.148>
+                                          StaticText, 0x1062e2e40, {{838.4, 616.5}, {59.5, 14.5}}, label: '20–60 cm' <AX element pid: 93142, elementOrHash.elementID: 4591583232.149>
+                                        Button, 0x1062e2f80, {{20.0, 666.5}, {185.5, 214.0}}, identifier: 'species-smallmouth', label: 'Field illustration, Smallmouth bass, Micropterus dolomieu, 25–50 cm' <AX element pid: 93142, elementOrHash.elementID: 4591584192.107>
+                                          Other, 0x1062e30c0, {{32.0, 678.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4591583552.150>
+                                          StaticText, 0x1062e3200, {{32.0, 796.5}, {137.0, 20.5}}, label: 'Smallmouth bass' <AX element pid: 93142, elementOrHash.elementID: 4591583712.151>
+                                          StaticText, 0x1062e3340, {{32.0, 825.0}, {114.5, 13.5}}, label: 'Micropterus dolomieu' <AX element pid: 93142, elementOrHash.elementID: 4591583872.152>
+                                          StaticText, 0x1062e3480, {{32.0, 846.5}, {59.5, 14.5}}, label: '25–50 cm' <AX element pid: 93142, elementOrHash.elementID: 4591584032.153>
+                                        Button, 0x1062e35c0, {{221.5, 666.5}, {185.5, 214.0}}, identifier: 'species-brook', label: 'Field illustration, Brook trout, Salvelinus fontinalis, 15–40 cm' <AX element pid: 93142, elementOrHash.elementID: 4591584992.108>
+                                          Other, 0x1062e3700, {{233.5, 678.5}, {161.5, 110.0}}, label: 'Field illustration' <AX element pid: 93142, elementOrHash.elementID: 4591584352.154>
+                                          StaticText, 0x1062e3840, {{233.6, 796.5}, {90.0, 20.5}}, label: 'Brook trout' <AX element pid: 93142, elementOrHash.elementID: 4591584512.155>
+                                          StaticText, 0x1062e3980, {{233.6, 825.0}, {104.0, 13.5}}, label: 'Salvelinus fontinalis' <AX element pid: 93142, elementOrHash.elementID: 4591584672.156>
+                                          StaticText, 0x1062e3ac0, {{233.6, 846.5}, {59.5, 14.5}}, label: '15–40 cm' <AX element pid: 93142, elementOrHash.elementID: 4591584832.157>
+                                    Other, 0x1062e3c00, {{999.0, 86.0}, {30.0, 1260.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 93142, elementOrHash.elementID: 4413039616.91>
+                                      Other, 0x1062e3d40, {{1026.0, 544.5}, {3.0, 798.5}} <AX element pid: 93142, elementOrHash.elementID: 4559403904.96>
+                                    Other, 0x1062e3e80, {{999.0, 86.0}, {30.0, 1260.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 93142, elementOrHash.elementID: 4413039616.91>
+                                      Other, 0x1062e8000, {{1026.0, 544.5}, {3.0, 798.5}} <AX element pid: 93142, elementOrHash.elementID: 4559403904.96>
+                          Toolbar, 0x1062e8140, {{0.0, 0.0}, {1032.0, 1376.0}}, identifier: 'Toolbar', label: 'Toolbar' <AX element pid: 93142, elementOrHash.elementID: 4413126656.79>
+                            Other, 0x1062e8280, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4550725376.83>
+              Other, 0x1062e83c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4369010688.15>
+                Other, 0x1062e8500, {{0.0, 32.0}, {1032.0, 44.0}} <AX element pid: 93142, elementOrHash.elementID: 4370366464.17>
+                  Button, 0x1062e8640, {{322.5, 36.0}, {91.5, 36.0}}, identifier: 'viewfinder', label: 'Identify' <AX element pid: 93142, elementOrHash.elementID: 4413138688.19>
+                    Button, 0x1062e8780, {{322.5, 36.0}, {91.5, 36.0}}, identifier: 'viewfinder', label: 'Identify' <AX element pid: 93142, elementOrHash.elementID: 4413337088.24>
+                  Button, 0x1062e88c0, {{414.0, 36.0}, {117.5, 36.0}}, identifier: 'fish', label: 'Field guide', Selected <AX element pid: 93142, elementOrHash.elementID: 4413139456.20>
+                    Button, 0x1062e8a00, {{414.0, 36.0}, {117.5, 36.0}}, identifier: 'fish', label: 'Field guide', Selected <AX element pid: 93142, elementOrHash.elementID: 4413339648.25>
+                  Button, 0x1062e8b40, {{531.5, 36.0}, {99.0, 36.0}}, identifier: 'square.stack', label: 'My finds' <AX element pid: 93142, elementOrHash.elementID: 4413140224.21>
+                    Button, 0x1062e8c80, {{531.5, 36.0}, {99.0, 36.0}}, identifier: 'square.stack', label: 'My finds' <AX element pid: 93142, elementOrHash.elementID: 4413276672.26>
+                  Button, 0x1062e8dc0, {{630.5, 36.0}, {79.0, 36.0}}, identifier: 'book.closed', label: 'Limits' <AX element pid: 93142, elementOrHash.elementID: 4413140992.22>
+                    Button, 0x1062e8f00, {{630.5, 36.0}, {79.0, 36.0}}, identifier: 'book.closed', label: 'Limits' <AX element pid: 93142, elementOrHash.elementID: 4413279232.27>
+  Window, 0x1062e9040, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4532944896.5>
+    Other, 0x1062e9180, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413179904.8>
+      Other, 0x1062e92c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 93142, elementOrHash.elementID: 4413182976.10>

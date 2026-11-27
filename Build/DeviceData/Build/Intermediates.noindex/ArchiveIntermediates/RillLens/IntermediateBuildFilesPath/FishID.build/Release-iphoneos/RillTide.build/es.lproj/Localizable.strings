@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fish ID</key>
+	<string>Fish ID</string>
+	<key>all</key>
+	<string>Todas las especies</string>
+	<key>analyzing</key>
+	<string>Analizando los detalles…</string>
+	<key>autumn</key>
+	<string>Otoño</string>
+	<key>band</key>
+	<string>Boca grande que sobrepasa el ojo; banda lateral oscura.</string>
+	<key>barbels</key>
+	<string>Escamas grandes y dos pares de barbillones junto a la boca.</string>
+	<key>bars</key>
+	<string>Barras verticales oscuras y aletas pélvicas anaranjadas.</string>
+	<key>bassRule</key>
+	<string>Lobinas negras: 5 al día en total; solo una de 16 pulgadas (40,6 cm) o más. Sin talla mínima estatal para la lobina de Florida/americana. Otras especies tienen restricciones.</string>
+	<key>bottom</key>
+	<string>Aguas cálidas y lentas con fondo blando. Busca alimento en el sedimento.</string>
+	<key>bronze</key>
+	<string>Costados bronce con barras; la boca termina junto al ojo.</string>
+	<key>browse</key>
+	<string>Explorar 12 especies</string>
+	<key>camera</key>
+	<string>Abrir cámara</string>
+	<key>cancel</key>
+	<string>Cancelar</string>
+	<key>challenge</key>
+	<string>Reto fotográfico de temporada</string>
+	<key>challengeBody</key>
+	<string>Fotografía y confirma 3 especies esta temporada. Observa con cuidado y libera los peces de forma responsable.</string>
+	<key>cold</key>
+	<string>Ríos y lagos fríos y oxigenados. Come insectos y pequeños animales acuáticos.</string>
+	<key>collection</key>
+	<string>Especies descubiertas</string>
+	<key>confirm</key>
+	<string>Confirmar y guardar</string>
+	<key>coverage</key>
+	<string>Referencia sin conexión • Florida, EE. UU.</string>
+	<key>dailyBody</key>
+	<string>Descubre la especie de hoy en tu guía sin conexión.</string>
+	<key>day</key>
+	<string>ESPECIE DEL DÍA</string>
+	<key>delete</key>
+	<string>Eliminar hallazgo</string>
+	<key>deleteAsk</key>
+	<string>¿Eliminar la foto y nota de este dispositivo?</string>
+	<key>disable</key>
+	<string>Desactivar recordatorios</string>
+	<key>diskError</key>
+	<string>No se pudo guardar. Libera espacio y vuelve a intentarlo.</string>
+	<key>done</key>
+	<string>Listo</string>
+	<key>ear</key>
+	<string>Cuerpo alto, opérculo oscuro y mancha en la aleta dorsal.</string>
+	<key>eelRule</key>
+	<string>Anguila americana: 25 por persona al día; talla mínima total de 9 pulgadas (22,9 cm). Hay excepciones para cebo comprado.</string>
+	<key>empty</key>
+	<string>Tu cuaderno empieza aquí.</string>
+	<key>emptyBody</key>
+	<string>Identifica una foto y confirma la especie para guardar tu primer hallazgo.</string>
+	<key>emptyFav</key>
+	<string>Añade una especie a favoritos.</string>
+	<key>enable</key>
+	<string>Activar recordatorios</string>
+	<key>error</key>
+	<string>Aviso</string>
+	<key>export</key>
+	<string>Guardar ficha en Fotos</string>
+	<key>exported</key>
+	<string>Ficha guardada en Fotos</string>
+	<key>eyes</key>
+	<string>Ojos reflectantes y punta blanca en el lóbulo inferior de la cola.</string>
+	<key>favorite</key>
+	<string>Añadir a favoritos</string>
+	<key>favorites</key>
+	<string>Favoritos</string>
+	<key>finds</key>
+	<string>Mis hallazgos</string>
+	<key>fish.bass</key>
+	<string>Perca americana</string>
+	<key>fish.bluegill</key>
+	<string>Perca sol</string>
+	<key>fish.brook</key>
+	<string>Trucha de arroyo</string>
+	<key>fish.brown</key>
+	<string>Trucha común</string>
+	<key>fish.carp</key>
+	<string>Carpa común</string>
+	<key>fish.crappie</key>
+	<string>Perca moteada negra</string>
+	<key>fish.perch</key>
+	<string>Perca europea</string>
+	<key>fish.pike</key>
+	<string>Lucio</string>
+	<key>fish.rainbow</key>
+	<string>Trucha arcoíris</string>
+	<key>fish.smallmouth</key>
+	<string>Lobina de boca pequeña</string>
+	<key>fish.tench</key>
+	<string>Tenca</string>
+	<key>fish.walleye</key>
+	<string>Lucioperca americana</string>
+	<key>guide</key>
+	<string>Guía</string>
+	<key>habitat</key>
+	<string>Hábitat y conducta</string>
+	<key>hero</key>
+	<string>Tu próximo
+descubrimiento.</string>
+	<key>how</key>
+	<string>Un pez. Una vista lateral clara.</string>
+	<key>howBody</key>
+	<string>Llena el encuadre con el pez. Compara sus rasgos antes de confirmar una sugerencia.</string>
+	<key>identify</key>
+	<string>Identificar</string>
+	<key>illustration</key>
+	<string>Ilustración</string>
+	<key>imageError</key>
+	<string>No se pudo leer la imagen. Elige otra foto.</string>
+	<key>lakes</key>
+	<string>Lagos y pozas fluviales. Come peces pequeños e invertebrados.</string>
+	<key>license</key>
+	<string>Licencia del modelo: MIT • Fishial / Wye Foundation</string>
+	<key>long</key>
+	<string>Cuerpo alargado, hocico plano y manchas claras sobre verde.</string>
+	<key>marble</key>
+	<string>Dorso marmoleado y bordes delanteros claros en las aletas inferiores.</string>
+	<key>marks</key>
+	<string>Rasgos para observar</string>
+	<key>mlError</key>
+	<string>El modelo local no pudo terminar. Prueba otra foto; la guía sigue disponible.</string>
+	<key>modelBody</key>
+	<string>Fishial v6 / ResNet18 convertido a Core ML. 281 etiquetas y 12 fichas detalladas. Puntuaciones sin calibrar. Mejor con un pez de perfil sobre fondo simple. Puede confundir especies parecidas o desconocidas. No lo uses para decidir si es comestible o legal retenerlo.</string>
+	<key>noCamera</key>
+	<string>Cámara no disponible. Elige una foto o permite el acceso en Ajustes.</string>
+	<key>noProfile</key>
+	<string>Nombre científico del modelo local. Compáralo con una guía fiable; esta edición no tiene una ficha detallada de esta especie.</string>
+	<key>noRegion</key>
+	<string>Esta edición sin conexión no cubre otras regiones.</string>
+	<key>noResults</key>
+	<string>No se encontraron especies</string>
+	<key>notes</key>
+	<string>Notas de campo</string>
+	<key>notifyDenied</key>
+	<string>Las notificaciones están desactivadas. Actívalas en Ajustes.</string>
+	<key>offline</key>
+	<string>EN EL DISPOSITIVO • SIN CONEXIÓN</string>
+	<key>ok</key>
+	<string>Aceptar</string>
+	<key>olive</key>
+	<string>Cuerpo oliva, escamas pequeñas, ojos rojizos y aletas redondeadas.</string>
+	<key>openSettings</key>
+	<string>Abrir Ajustes</string>
+	<key>peacockRule</key>
+	<string>Pavón mariposa: 2 al día; solo uno de 17 pulgadas (43,2 cm) o más.</string>
+	<key>photo</key>
+	<string>Elegir foto</string>
+	<key>photoDenied</key>
+	<string>Permite añadir fotos en Ajustes para exportar una ficha.</string>
+	<key>pink</key>
+	<string>Franja rosa lateral y puntos oscuros, también en la cola.</string>
+	<key>privacy</key>
+	<string>Privacidad y modelo</string>
+	<key>privacyBody</key>
+	<string>Fotos y notas permanecen en este dispositivo. Sin cuenta, rastreo, publicidad ni envíos. Eliminar un hallazgo borra su foto local. Las copias siguen los ajustes del dispositivo. Los widgets leen un resumen local.</string>
+	<key>protectedRule</key>
+	<string>Pejelagarto y carpa herbívora: la posesión requiere permiso; sin él, liberar inmediatamente.</string>
+	<key>recent</key>
+	<string>Hallazgos recientes</string>
+	<key>red</key>
+	<string>Costados marrón dorado con puntos oscuros y a menudo rojos.</string>
+	<key>region</key>
+	<string>Jurisdicción</string>
+	<key>reminderValue</key>
+	<string>Un recordatorio de especie a las 9:00 y un reto el primer día de cada temporada. Programados en este dispositivo.</string>
+	<key>reminders</key>
+	<string>Recordatorios locales</string>
+	<key>rocks</key>
+	<string>Lagos y ríos claros con rocas. Come cangrejos de río y peces pequeños.</string>
+	<key>ruleWarning</key>
+	<string>Resumen de aguas dulces de Florida. Las aguas locales, permisos y especies protegidas pueden tener reglas más estrictas. Consulta las normas oficiales antes de retener un pez. Una foto no establece la identificación legal.</string>
+	<key>rules</key>
+	<string>Límites</string>
+	<key>sample</key>
+	<string>Probar foto de ejemplo</string>
+	<key>sampleNotSaved</key>
+	<string>Los ejemplos no cuentan en tus estadísticas.</string>
+	<key>sampleNotice</key>
+	<string>Foto de ejemplo • modelo Fishial</string>
+	<key>saveNote</key>
+	<string>Guardar nota</string>
+	<key>saved</key>
+	<string>Hallazgo guardado</string>
+	<key>score</key>
+	<string>Puntuación del modelo, no certeza</string>
+	<key>search</key>
+	<string>Nombre común o científico</string>
+	<key>seasonNote</key>
+	<string>La época varía con la latitud y temperatura. Es información biológica, no una temporada legal de pesca.</string>
+	<key>seasonRule</key>
+	<string>Temporada general de agua dulce: 1 de julio–30 de junio, salvo norma específica. Prevalecen cierres locales y excepciones por especie.</string>
+	<key>select</key>
+	<string>Elegir especie manualmente</string>
+	<key>settings</key>
+	<string>Preferencias</string>
+	<key>size</key>
+	<string>Longitud adulta habitual</string>
+	<key>source</key>
+	<string>Fuente oficial</string>
+	<key>spawn</key>
+	<string>Desove • hemisferio norte</string>
+	<key>speciesCount</key>
+	<string>Hallazgos confirmados</string>
+	<key>speckle</key>
+	<string>Cuerpo alto plateado con motas oscuras irregulares.</string>
+	<key>spring</key>
+	<string>Primavera</string>
+	<key>springSummer</key>
+	<string>Primavera–verano</string>
+	<key>stats</key>
+	<string>Cuaderno semanal</string>
+	<key>suggestions</key>
+	<string>Posibles coincidencias</string>
+	<key>tagline</key>
+	<string>Tu guía de bolsillo.</string>
+	<key>uncertain</key>
+	<string>Resultado incierto. Prueba una vista lateral cercana e iluminada o elige una especie de la guía.</string>
+	<key>verified</key>
+	<string>Verificado el 15 nov. 2026</string>
+	<key>weeds</key>
+	<string>Lagos, estanques y ríos lentos con vegetación. Caza al acecho.</string>
+	<key>week</key>
+	<string>Análisis esta semana</string>
+	<key>widgetDesc</key>
+	<string>Especie del día, colección y desove.</string>
+	<key>widgetName</key>
+	<string>Cuaderno Fish ID</string>
+</dict>
+</plist>

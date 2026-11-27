@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bass",
+    "latin": "Micropterus salmoides",
+    "name": "fish.bass",
+    "size": "25–55 cm",
+    "habitat": "weeds",
+    "marks": "band",
+    "season": "spring"
+  },
+  {
+    "id": "rainbow",
+    "latin": "Oncorhynchus mykiss",
+    "name": "fish.rainbow",
+    "size": "20–60 cm",
+    "habitat": "cold",
+    "marks": "pink",
+    "season": "spring"
+  },
+  {
+    "id": "pike",
+    "latin": "Esox lucius",
+    "name": "fish.pike",
+    "size": "40–100 cm",
+    "habitat": "weeds",
+    "marks": "long",
+    "season": "spring"
+  },
+  {
+    "id": "perch",
+    "latin": "Perca fluviatilis",
+    "name": "fish.perch",
+    "size": "15–40 cm",
+    "habitat": "lakes",
+    "marks": "bars",
+    "season": "spring"
+  },
+  {
+    "id": "carp",
+    "latin": "Cyprinus carpio",
+    "name": "fish.carp",
+    "size": "30–80 cm",
+    "habitat": "bottom",
+    "marks": "barbels",
+    "season": "springSummer"
+  },
+  {
+    "id": "bluegill",
+    "latin": "Lepomis macrochirus",
+    "name": "fish.bluegill",
+    "size": "10–25 cm",
+    "habitat": "weeds",
+    "marks": "ear",
+    "season": "springSummer"
+  },
+  {
+    "id": "tench",
+    "latin": "Tinca tinca",
+    "name": "fish.tench",
+    "size": "20–50 cm",
+    "habitat": "bottom",
+    "marks": "olive",
+    "season": "springSummer"
+  },
+  {
+    "id": "walleye",
+    "latin": "Sander vitreus",
+    "name": "fish.walleye",
+    "size": "30–70 cm",
+    "habitat": "lakes",
+    "marks": "eyes",
+    "season": "spring"
+  },
+  {
+    "id": "crappie",
+    "latin": "Pomoxis nigromaculatus",
+    "name": "fish.crappie",
+    "size": "15–35 cm",
+    "habitat": "lakes",
+    "marks": "speckle",
+    "season": "spring"
+  },
+  {
+    "id": "brown",
+    "latin": "Salmo trutta",
+    "name": "fish.brown",
+    "size": "20–60 cm",
+    "habitat": "cold",
+    "marks": "red",
+    "season": "autumn"
+  },
+  {
+    "id": "smallmouth",
+    "latin": "Micropterus dolomieu",
+    "name": "fish.smallmouth",
+    "size": "25–50 cm",
+    "habitat": "rocks",
+    "marks": "bronze",
+    "season": "spring"
+  },
+  {
+    "id": "brook",
+    "latin": "Salvelinus fontinalis",
+    "name": "fish.brook",
+    "size": "15–40 cm",
+    "habitat": "cold",
+    "marks": "marble",
+    "season": "autumn"
+  }
+]

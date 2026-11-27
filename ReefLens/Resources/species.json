@@ -1,0 +1,234 @@
+[
+  {
+    "id": "largemouth",
+    "latin": "Micropterus nigricans",
+    "name": "fish.largemouth",
+    "size": "25–55 cm",
+    "habitat": "home.largemouth",
+    "marks": "mark.largemouth",
+    "season": "spring",
+    "photoSupported": true
+  },
+  {
+    "id": "rainbow",
+    "latin": "Oncorhynchus mykiss",
+    "name": "fish.rainbow",
+    "size": "20–60 cm",
+    "habitat": "cold",
+    "marks": "pink",
+    "season": "spring",
+    "nativeRange": "range.rainbow",
+    "photoSupported": true
+  },
+  {
+    "id": "yellow",
+    "latin": "Perca flavescens",
+    "name": "fish.yellow",
+    "size": "15–30 cm",
+    "habitat": "home.yellow",
+    "marks": "mark.yellow",
+    "season": "spring",
+    "photoSupported": true
+  },
+  {
+    "id": "channel",
+    "latin": "Ictalurus punctatus",
+    "name": "fish.channel",
+    "size": "30–60 cm",
+    "habitat": "home.channel",
+    "marks": "mark.channel",
+    "season": "springSummer",
+    "photoSupported": true
+  },
+  {
+    "id": "idol",
+    "latin": "Zanclus cornutus",
+    "name": "fish.idol",
+    "size": "15–23 cm",
+    "habitat": "home.idol",
+    "marks": "mark.idol",
+    "season": "reefLife",
+    "photoSupported": true
+  },
+  {
+    "id": "bluegill",
+    "latin": "Lepomis macrochirus",
+    "name": "fish.bluegill",
+    "size": "10–25 cm",
+    "habitat": "weeds",
+    "marks": "ear",
+    "season": "springSummer",
+    "nativeRange": "range.america",
+    "photoSupported": true
+  },
+  {
+    "id": "bass",
+    "latin": "Micropterus salmoides",
+    "name": "fish.bass",
+    "size": "25–55 cm",
+    "habitat": "weeds",
+    "marks": "mark.bass",
+    "season": "spring",
+    "nativeRange": "range.bass",
+    "photoSupported": false
+  },
+  {
+    "id": "pike",
+    "latin": "Esox lucius",
+    "name": "fish.pike",
+    "size": "40–100 cm",
+    "habitat": "weeds",
+    "marks": "long",
+    "season": "spring",
+    "nativeRange": "range.pike",
+    "photoSupported": true
+  },
+  {
+    "id": "perch",
+    "latin": "Perca fluviatilis",
+    "name": "fish.perch",
+    "size": "15–40 cm",
+    "habitat": "lakes",
+    "marks": "bars",
+    "season": "spring",
+    "nativeRange": "range.eurasia",
+    "photoSupported": false
+  },
+  {
+    "id": "carp",
+    "latin": "Cyprinus carpio",
+    "name": "fish.carp",
+    "size": "30–80 cm",
+    "habitat": "bottom",
+    "marks": "barbels",
+    "season": "springSummer",
+    "nativeRange": "range.eurasia",
+    "photoSupported": true
+  },
+  {
+    "id": "tench",
+    "latin": "Tinca tinca",
+    "name": "fish.tench",
+    "size": "20–50 cm",
+    "habitat": "bottom",
+    "marks": "olive",
+    "season": "springSummer",
+    "nativeRange": "range.eurasia",
+    "photoSupported": false
+  },
+  {
+    "id": "walleye",
+    "latin": "Sander vitreus",
+    "name": "fish.walleye",
+    "size": "30–70 cm",
+    "habitat": "lakes",
+    "marks": "eyes",
+    "season": "spring",
+    "nativeRange": "range.america",
+    "photoSupported": false
+  },
+  {
+    "id": "crappie",
+    "latin": "Pomoxis nigromaculatus",
+    "name": "fish.crappie",
+    "size": "15–35 cm",
+    "habitat": "lakes",
+    "marks": "speckle",
+    "season": "spring",
+    "nativeRange": "range.america",
+    "photoSupported": false
+  },
+  {
+    "id": "brown",
+    "latin": "Salmo trutta",
+    "name": "fish.brown",
+    "size": "20–60 cm",
+    "habitat": "cold",
+    "marks": "red",
+    "season": "autumn",
+    "nativeRange": "range.brown",
+    "photoSupported": true
+  },
+  {
+    "id": "smallmouth",
+    "latin": "Micropterus dolomieu",
+    "name": "fish.smallmouth",
+    "size": "25–50 cm",
+    "habitat": "rocks",
+    "marks": "bronze",
+    "season": "spring",
+    "nativeRange": "range.america",
+    "photoSupported": true
+  },
+  {
+    "id": "brook",
+    "latin": "Salvelinus fontinalis",
+    "name": "fish.brook",
+    "size": "15–40 cm",
+    "habitat": "cold",
+    "marks": "marble",
+    "season": "autumn",
+    "nativeRange": "range.brook",
+    "photoSupported": true
+  },
+  {
+    "id": "western",
+    "latin": "Gambusia affinis",
+    "name": "fish.western",
+    "size": "2–6 cm",
+    "habitat": "home.western",
+    "marks": "mark.western",
+    "season": "liveYoung",
+    "photoSupported": true
+  },
+  {
+    "id": "eastern",
+    "latin": "Gambusia holbrooki",
+    "name": "fish.eastern",
+    "size": "2–6 cm",
+    "habitat": "home.eastern",
+    "marks": "mark.eastern",
+    "season": "liveYoung",
+    "photoSupported": true
+  },
+  {
+    "id": "redbreast",
+    "latin": "Lepomis auritus",
+    "name": "fish.redbreast",
+    "size": "10–20 cm",
+    "habitat": "home.redbreast",
+    "marks": "mark.redbreast",
+    "season": "springSummer",
+    "photoSupported": true
+  },
+  {
+    "id": "green",
+    "latin": "Lepomis cyanellus",
+    "name": "fish.green",
+    "size": "10–20 cm",
+    "habitat": "home.green",
+    "marks": "mark.green",
+    "season": "springSummer",
+    "photoSupported": true
+  },
+  {
+    "id": "pumpkin",
+    "latin": "Lepomis gibbosus",
+    "name": "fish.pumpkin",
+    "size": "10–20 cm",
+    "habitat": "home.pumpkin",
+    "marks": "mark.pumpkin",
+    "season": "springSummer",
+    "photoSupported": true
+  },
+  {
+    "id": "creek",
+    "latin": "Semotilus atromaculatus",
+    "name": "fish.creek",
+    "size": "10–18 cm",
+    "habitat": "home.creek",
+    "marks": "mark.creek",
+    "season": "spring",
+    "photoSupported": true
+  }
+]

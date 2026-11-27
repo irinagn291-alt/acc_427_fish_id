@@ -1,0 +1,15 @@
+{
+  "fixture": "Fishial v6 test_image.png",
+  "expected_label": "Tinca tinca",
+  "pytorch_top1": [
+    "Tinca tinca",
+    0.8825916051864624
+  ],
+  "coreml_top1": [
+    "Tinca tinca",
+    0.88037109375
+  ],
+  "max_absolute_deviation": 0.0022205114364624023,
+  "class_count": 281,
+  "purpose": "Conversion equivalence on publisher fixture; not an independent accuracy benchmark"
+}

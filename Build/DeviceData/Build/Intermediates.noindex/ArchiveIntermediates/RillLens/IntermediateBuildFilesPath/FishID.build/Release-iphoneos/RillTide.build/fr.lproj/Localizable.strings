@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fish ID</key>
+	<string>Fish ID</string>
+	<key>all</key>
+	<string>Toutes les espèces</string>
+	<key>analyzing</key>
+	<string>Analyse des détails…</string>
+	<key>autumn</key>
+	<string>Automne</string>
+	<key>band</key>
+	<string>Grande bouche dépassant l’œil ; bande latérale sombre.</string>
+	<key>barbels</key>
+	<string>Grandes écailles et deux paires de barbillons autour de la bouche.</string>
+	<key>bars</key>
+	<string>Barres verticales sombres et nageoires pelviennes orangées.</string>
+	<key>bassRule</key>
+	<string>Achigans noirs : 5 par jour au total ; un seul de 16 po (40,6 cm) ou plus. Aucun minimum général pour l’achigan de Floride/à grande bouche. D’autres espèces ont des restrictions.</string>
+	<key>bottom</key>
+	<string>Eaux chaudes et lentes à fond meuble. Cherche sa nourriture dans les sédiments.</string>
+	<key>bronze</key>
+	<string>Flancs bronze barrés ; la bouche arrive près de l’œil.</string>
+	<key>browse</key>
+	<string>Explorer 12 espèces</string>
+	<key>camera</key>
+	<string>Ouvrir l’appareil photo</string>
+	<key>cancel</key>
+	<string>Annuler</string>
+	<key>challenge</key>
+	<string>Défi photo de saison</string>
+	<key>challengeBody</key>
+	<string>Photographiez et confirmez 3 espèces cette saison. Observez avec soin et relâchez les poissons de façon responsable.</string>
+	<key>cold</key>
+	<string>Rivières et lacs frais et oxygénés. Mange des insectes et de petits animaux aquatiques.</string>
+	<key>collection</key>
+	<string>Espèces découvertes</string>
+	<key>confirm</key>
+	<string>Confirmer et enregistrer</string>
+	<key>coverage</key>
+	<string>Référence hors ligne • Floride, États-Unis</string>
+	<key>dailyBody</key>
+	<string>Découvrez l’espèce du jour dans le guide hors ligne.</string>
+	<key>day</key>
+	<string>ESPÈCE DU JOUR</string>
+	<key>delete</key>
+	<string>Supprimer</string>
+	<key>deleteAsk</key>
+	<string>Supprimer la photo et la note de cet appareil ?</string>
+	<key>disable</key>
+	<string>Désactiver les rappels</string>
+	<key>diskError</key>
+	<string>Enregistrement impossible. Libérez de l’espace et réessayez.</string>
+	<key>done</key>
+	<string>Terminé</string>
+	<key>ear</key>
+	<string>Corps haut, opercule sombre et tache sur la dorsale.</string>
+	<key>eelRule</key>
+	<string>Anguille d’Amérique : 25 par personne et par jour ; longueur totale minimale de 9 po (22,9 cm). Exceptions pour l’achat d’appâts.</string>
+	<key>empty</key>
+	<string>Votre carnet commence ici.</string>
+	<key>emptyBody</key>
+	<string>Identifiez une photo et confirmez l’espèce pour enregistrer votre première découverte.</string>
+	<key>emptyFav</key>
+	<string>Ajoutez une espèce à vos favoris.</string>
+	<key>enable</key>
+	<string>Activer les rappels</string>
+	<key>error</key>
+	<string>Attention</string>
+	<key>export</key>
+	<string>Enregistrer la fiche dans Photos</string>
+	<key>exported</key>
+	<string>Fiche enregistrée dans Photos</string>
+	<key>eyes</key>
+	<string>Yeux réfléchissants et pointe blanche au bas de la queue.</string>
+	<key>favorite</key>
+	<string>Ajouter aux favoris</string>
+	<key>favorites</key>
+	<string>Favoris</string>
+	<key>finds</key>
+	<string>Mes découvertes</string>
+	<key>fish.bass</key>
+	<string>Achigan à grande bouche</string>
+	<key>fish.bluegill</key>
+	<string>Crapet arlequin</string>
+	<key>fish.brook</key>
+	<string>Omble de fontaine</string>
+	<key>fish.brown</key>
+	<string>Truite brune</string>
+	<key>fish.carp</key>
+	<string>Carpe commune</string>
+	<key>fish.crappie</key>
+	<string>Marigane noire</string>
+	<key>fish.perch</key>
+	<string>Perche commune</string>
+	<key>fish.pike</key>
+	<string>Grand brochet</string>
+	<key>fish.rainbow</key>
+	<string>Truite arc-en-ciel</string>
+	<key>fish.smallmouth</key>
+	<string>Achigan à petite bouche</string>
+	<key>fish.tench</key>
+	<string>Tanche</string>
+	<key>fish.walleye</key>
+	<string>Doré jaune</string>
+	<key>guide</key>
+	<string>Guide</string>
+	<key>habitat</key>
+	<string>Habitat et comportement</string>
+	<key>hero</key>
+	<string>Une nouvelle
+découverte.</string>
+	<key>how</key>
+	<string>Un poisson, bien visible de profil.</string>
+	<key>howBody</key>
+	<string>Cadrez le poisson de près. Comparez ses caractères avant de confirmer une suggestion.</string>
+	<key>identify</key>
+	<string>Identifier</string>
+	<key>illustration</key>
+	<string>Illustration</string>
+	<key>imageError</key>
+	<string>Impossible de lire cette image. Choisissez une autre photo.</string>
+	<key>lakes</key>
+	<string>Lacs et fosses de rivière. Mange de petits poissons et des invertébrés.</string>
+	<key>license</key>
+	<string>Licence du modèle : MIT • Fishial / Wye Foundation</string>
+	<key>long</key>
+	<string>Corps allongé, museau plat et taches claires sur fond vert.</string>
+	<key>marble</key>
+	<string>Dos marbré et bords antérieurs pâles aux nageoires inférieures.</string>
+	<key>marks</key>
+	<string>Caractères à observer</string>
+	<key>mlError</key>
+	<string>Le modèle local n’a pas terminé. Essayez une autre photo ; le guide reste disponible.</string>
+	<key>modelBody</key>
+	<string>Fishial v6 / ResNet18 converti en Core ML. 281 classes ; 12 fiches détaillées. Scores non calibrés. Préférez un poisson de profil sur fond simple. Les espèces proches ou inconnues peuvent être mal identifiées. Ne décidez jamais de la consommation ou de la conservation sur cette base.</string>
+	<key>noCamera</key>
+	<string>Appareil photo indisponible. Choisissez une photo ou autorisez l’accès dans Réglages.</string>
+	<key>noProfile</key>
+	<string>Nom scientifique du modèle local. Comparez avec un guide de référence ; cette édition ne contient pas de fiche détaillée pour cette espèce.</string>
+	<key>noRegion</key>
+	<string>Les autres régions ne sont pas couvertes par cette édition hors ligne.</string>
+	<key>noResults</key>
+	<string>Aucune espèce trouvée</string>
+	<key>notes</key>
+	<string>Notes de terrain</string>
+	<key>notifyDenied</key>
+	<string>Les notifications sont désactivées. Activez-les dans Réglages.</string>
+	<key>offline</key>
+	<string>SUR L’APPAREIL • HORS LIGNE</string>
+	<key>ok</key>
+	<string>OK</string>
+	<key>olive</key>
+	<string>Corps olive, petites écailles, yeux rougeâtres et nageoires arrondies.</string>
+	<key>openSettings</key>
+	<string>Ouvrir Réglages</string>
+	<key>peacockRule</key>
+	<string>Cichlidé paon : 2 par jour ; un seul de 17 po (43,2 cm) ou plus.</string>
+	<key>photo</key>
+	<string>Choisir une photo</string>
+	<key>photoDenied</key>
+	<string>Autorisez l’ajout de photos dans Réglages pour exporter une fiche.</string>
+	<key>pink</key>
+	<string>Bande rose sur le flanc et points sombres, aussi sur la queue.</string>
+	<key>privacy</key>
+	<string>Confidentialité et modèle</string>
+	<key>privacyBody</key>
+	<string>Photos et notes restent sur cet appareil. Aucun compte, suivi, publicité ni envoi. Supprimer une découverte efface sa photo locale. Les sauvegardes suivent les réglages de l’appareil. Les widgets lisent un résumé local.</string>
+	<key>protectedRule</key>
+	<string>Gar alligator et carpe herbivore : permis requis pour la possession ; sinon relâcher immédiatement.</string>
+	<key>recent</key>
+	<string>Découvertes récentes</string>
+	<key>red</key>
+	<string>Flancs brun doré avec points sombres et souvent rouges.</string>
+	<key>region</key>
+	<string>Région</string>
+	<key>reminderValue</key>
+	<string>Un rappel d’espèce à 9 h et un défi photo le premier jour de chaque saison. Programmés sur cet appareil.</string>
+	<key>reminders</key>
+	<string>Rappels locaux</string>
+	<key>rocks</key>
+	<string>Lacs et rivières clairs à fond rocheux. Mange des écrevisses et petits poissons.</string>
+	<key>ruleWarning</key>
+	<string>Résumé pour les eaux douces de Floride. Des règles locales, permis et espèces protégées peuvent imposer d’autres limites. Vérifiez les règles officielles avant toute capture conservée. Une photo ne constitue pas une identification légale.</string>
+	<key>rules</key>
+	<string>Limites</string>
+	<key>sample</key>
+	<string>Essayer une photo exemple</string>
+	<key>sampleNotSaved</key>
+	<string>Les exemples ne comptent pas dans vos statistiques.</string>
+	<key>sampleNotice</key>
+	<string>Photo exemple • modèle Fishial</string>
+	<key>saveNote</key>
+	<string>Enregistrer la note</string>
+	<key>saved</key>
+	<string>Découverte enregistrée</string>
+	<key>score</key>
+	<string>Score du modèle, pas une certitude</string>
+	<key>search</key>
+	<string>Nom ou nom scientifique</string>
+	<key>seasonNote</key>
+	<string>La période varie selon la latitude et la température. Il s’agit de biologie, pas d’une saison de pêche autorisée.</string>
+	<key>seasonRule</key>
+	<string>Saison générale en eau douce : du 1er juillet au 30 juin, sauf règle spécifique. Fermetures locales et exceptions par espèce prévalent.</string>
+	<key>select</key>
+	<string>Choisir l’espèce</string>
+	<key>settings</key>
+	<string>Préférences</string>
+	<key>size</key>
+	<string>Longueur adulte habituelle</string>
+	<key>source</key>
+	<string>Source officielle</string>
+	<key>spawn</key>
+	<string>Reproduction • hémisphère nord</string>
+	<key>speciesCount</key>
+	<string>Découvertes confirmées</string>
+	<key>speckle</key>
+	<string>Corps haut argenté avec mouchetures sombres irrégulières.</string>
+	<key>spring</key>
+	<string>Printemps</string>
+	<key>springSummer</key>
+	<string>Printemps–été</string>
+	<key>stats</key>
+	<string>Carnet de la semaine</string>
+	<key>suggestions</key>
+	<string>Correspondances possibles</string>
+	<key>tagline</key>
+	<string>Votre guide de poche.</string>
+	<key>uncertain</key>
+	<string>Résultat incertain. Essayez une vue de profil plus proche et éclairée, ou choisissez dans le guide.</string>
+	<key>verified</key>
+	<string>Vérifié le 15 nov. 2026</string>
+	<key>weeds</key>
+	<string>Lacs, étangs et rivières lentes avec végétation. Chasse à l’affût.</string>
+	<key>week</key>
+	<string>Analyses cette semaine</string>
+	<key>widgetDesc</key>
+	<string>Espèce du jour, collection et reproduction.</string>
+	<key>widgetName</key>
+	<string>Carnet Fish ID</string>
+</dict>
+</plist>

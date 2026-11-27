@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>0EE159F5-9B1A-4E26-8673-98B6D2A57B26</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EE159F5-9B1A-4E26-8673-98B6D2A57B26.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FishID project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RillLens</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project FishID with scheme RillLens</string>
+			<key>timeStartedRecording</key>
+			<real>816427466.05152297</real>
+			<key>timeStoppedRecording</key>
+			<real>816427478.51116002</real>
+			<key>title</key>
+			<string>Archiving project FishID with scheme RillLens</string>
+			<key>uniqueIdentifier</key>
+			<string>0EE159F5-9B1A-4E26-8673-98B6D2A57B26</string>
+		</dict>
+		<key>846030DE-C641-440E-9336-CC4EA3527A6D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>846030DE-C641-440E-9336-CC4EA3527A6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FishID project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RillLens</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project FishID with scheme RillLens</string>
+			<key>timeStartedRecording</key>
+			<real>816428964.29472196</real>
+			<key>timeStoppedRecording</key>
+			<real>816428974.737221</real>
+			<key>title</key>
+			<string>Archiving project FishID with scheme RillLens</string>
+			<key>uniqueIdentifier</key>
+			<string>846030DE-C641-440E-9336-CC4EA3527A6D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

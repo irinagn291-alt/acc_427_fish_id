@@ -1,0 +1,14 @@
+{
+  "swift_source_count": 5,
+  "ui_test_source_count": 1,
+  "languages": [
+    "en",
+    "de",
+    "fr",
+    "es"
+  ],
+  "localized_keys": 118,
+  "missing_keys": [],
+  "incomplete_keys": [],
+  "profiles": 12
+}

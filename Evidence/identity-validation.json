@@ -1,0 +1,10 @@
+{
+  "objects": 65,
+  "uuid_collisions": [],
+  "machine_paths_in_source": [],
+  "source_hashes": {
+    "Tools/Fishial_v6.zip": "3862dc80d7205ff2a0ce6cf691427fa825cf07bba56f1403c6a1fcd91d57ffb2",
+    "ReefLens/Resources/Fishial_LICENSE.txt": "eadb35c42ee4d64de15fc2d73d807d0e8b9cc41e40b6b93616a449c9364824a3",
+    "ReefLens/Resources/RillNet.mlpackage/Data/com.apple.CoreML/weights/weight.bin": "1f8b9319d94def2a0894c903f5b99ddf2ef450510358589f68e35b29a4fc506c"
+  }
+}

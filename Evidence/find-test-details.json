@@ -1,0 +1,57 @@
+{
+  "devices" : [
+    {
+      "architecture" : "arm64",
+      "deviceId" : "251578DC-B92C-415D-AAFB-91FE7F472309",
+      "deviceName" : "GF isolated manual-qa a649ae274f294347b4d061fd6704b005 iPhone 18 Pro",
+      "modelName" : "iPhone 18 Pro",
+      "osBuildNumber" : "24B8117",
+      "osVersion" : "27.2",
+      "platform" : "iOS Simulator"
+    }
+  ],
+  "duration" : "Ran for 27 seconds",
+  "durationInSeconds" : 27.810380935668945,
+  "hasMediaAttachments" : true,
+  "hasPerformanceMetrics" : false,
+  "startTime" : 1794744368.399,
+  "testDescription" : "Test case with 1 run",
+  "testIdentifier" : "RillChecks/testFindPersistence()",
+  "testIdentifierURL" : "test://com.apple.xcode/FishID/RillChecks/RillChecks/testFindPersistence",
+  "testName" : "testFindPersistence()",
+  "testPlanConfigurations" : [
+    {
+      "configurationId" : "1",
+      "configurationName" : "Test Scheme Action"
+    }
+  ],
+  "testResult" : "Passed",
+  "testRuns" : [
+    {
+      "children" : [
+        {
+          "children" : [
+            {
+              "name" : "Invalid frame dimension (negative or non-finite).",
+              "nodeType" : "Runtime Warning"
+            }
+          ],
+          "duration" : "27s",
+          "durationInSeconds" : 27.810380935668945,
+          "name" : "Test Scheme Action",
+          "nodeIdentifier" : "1",
+          "nodeIdentifierURL" : "test://com.apple.xcode/FishID/RillChecks/RillChecks/testFindPersistence",
+          "nodeType" : "Test Plan Configuration",
+          "result" : "Passed"
+        }
+      ],
+      "details" : "iOS Simulator 27.2",
+      "duration" : "27s",
+      "durationInSeconds" : 27.810380935668945,
+      "name" : "iPhone 18 Pro",
+      "nodeIdentifier" : "251578DC-B92C-415D-AAFB-91FE7F472309",
+      "nodeType" : "Device",
+      "result" : "Passed"
+    }
+  ]
+}

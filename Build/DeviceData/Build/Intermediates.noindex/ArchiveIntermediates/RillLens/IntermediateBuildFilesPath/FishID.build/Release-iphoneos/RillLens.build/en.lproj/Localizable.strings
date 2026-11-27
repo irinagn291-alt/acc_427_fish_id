@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fish ID</key>
+	<string>Fish ID</string>
+	<key>all</key>
+	<string>All species</string>
+	<key>analyzing</key>
+	<string>Reading the details…</string>
+	<key>autumn</key>
+	<string>Autumn</string>
+	<key>band</key>
+	<string>Large mouth extending behind the eye; dark lateral band.</string>
+	<key>barbels</key>
+	<string>Large scales and two pairs of barbels around the mouth.</string>
+	<key>bars</key>
+	<string>Dark vertical bars and orange-red pelvic fins.</string>
+	<key>bassRule</key>
+	<string>Black bass: 5 per day in total; only one may be 16 in (40.6 cm) or longer. Florida/largemouth bass: no statewide minimum length. Other black bass species have additional restrictions.</string>
+	<key>bottom</key>
+	<string>Warm, slow water with a soft bottom. Searches sediment for food.</string>
+	<key>bronze</key>
+	<string>Bronze sides with bars; mouth ends near the eye.</string>
+	<key>browse</key>
+	<string>Browse 12 species</string>
+	<key>camera</key>
+	<string>Open camera</string>
+	<key>cancel</key>
+	<string>Cancel</string>
+	<key>challenge</key>
+	<string>Seasonal photo challenge</string>
+	<key>challengeBody</key>
+	<string>Photograph and confirm 3 different species this season. Observe gently and release fish responsibly.</string>
+	<key>cold</key>
+	<string>Cool, oxygen-rich rivers and lakes. Feeds on insects and small aquatic animals.</string>
+	<key>collection</key>
+	<string>Species collected</string>
+	<key>confirm</key>
+	<string>Confirm &amp; save find</string>
+	<key>coverage</key>
+	<string>Offline reference • Florida, USA</string>
+	<key>dailyBody</key>
+	<string>Meet today’s species in your offline field guide.</string>
+	<key>day</key>
+	<string>SPECIES OF THE DAY</string>
+	<key>delete</key>
+	<string>Delete find</string>
+	<key>deleteAsk</key>
+	<string>Delete this photo and field note from this device?</string>
+	<key>disable</key>
+	<string>Turn off reminders</string>
+	<key>diskError</key>
+	<string>The find could not be saved. Free some device storage and try again.</string>
+	<key>done</key>
+	<string>Done</string>
+	<key>ear</key>
+	<string>Deep body, dark ear flap and a spot on the dorsal fin.</string>
+	<key>eelRule</key>
+	<string>American eel: 25 per angler per day; minimum total length 9 in (22.9 cm). Bait purchase exemptions apply.</string>
+	<key>empty</key>
+	<string>Your field notebook starts here.</string>
+	<key>emptyBody</key>
+	<string>Identify a photo and confirm the species to keep your first find.</string>
+	<key>emptyFav</key>
+	<string>Favorite a species to keep it close.</string>
+	<key>enable</key>
+	<string>Enable reminders</string>
+	<key>error</key>
+	<string>Something needs attention</string>
+	<key>export</key>
+	<string>Save find card to Photos</string>
+	<key>exported</key>
+	<string>Card saved to Photos</string>
+	<key>eyes</key>
+	<string>Reflective eyes and a white tip on the lower tail lobe.</string>
+	<key>favorite</key>
+	<string>Favorite species</string>
+	<key>favorites</key>
+	<string>Favorites</string>
+	<key>finds</key>
+	<string>My finds</string>
+	<key>fish.bass</key>
+	<string>Largemouth bass</string>
+	<key>fish.bluegill</key>
+	<string>Bluegill</string>
+	<key>fish.brook</key>
+	<string>Brook trout</string>
+	<key>fish.brown</key>
+	<string>Brown trout</string>
+	<key>fish.carp</key>
+	<string>Common carp</string>
+	<key>fish.crappie</key>
+	<string>Black crappie</string>
+	<key>fish.perch</key>
+	<string>European perch</string>
+	<key>fish.pike</key>
+	<string>Northern pike</string>
+	<key>fish.rainbow</key>
+	<string>Rainbow trout</string>
+	<key>fish.smallmouth</key>
+	<string>Smallmouth bass</string>
+	<key>fish.tench</key>
+	<string>Tench</string>
+	<key>fish.walleye</key>
+	<string>Walleye</string>
+	<key>guide</key>
+	<string>Field guide</string>
+	<key>habitat</key>
+	<string>Habitat &amp; behavior</string>
+	<key>hero</key>
+	<string>Meet your
+next discovery.</string>
+	<key>how</key>
+	<string>One fish. A clear side view.</string>
+	<key>howBody</key>
+	<string>Fill the frame with the fish. Suggestions are a starting point: compare the markings before you confirm.</string>
+	<key>identify</key>
+	<string>Identify</string>
+	<key>illustration</key>
+	<string>Field illustration</string>
+	<key>imageError</key>
+	<string>This image could not be read. Choose another photo.</string>
+	<key>lakes</key>
+	<string>Lakes and river pools. Feeds on small fish and aquatic invertebrates.</string>
+	<key>license</key>
+	<string>Model license: MIT • Fishial / Wye Foundation</string>
+	<key>long</key>
+	<string>Long body, duckbill snout and pale spots on green sides.</string>
+	<key>marble</key>
+	<string>Marbled back and pale leading edges on lower fins.</string>
+	<key>marks</key>
+	<string>Look for these details</string>
+	<key>mlError</key>
+	<string>The local model could not finish. Try another photo; the field guide is still available.</string>
+	<key>modelBody</key>
+	<string>Fishial v6 / ResNet18, converted to Core ML. 281 model labels; 12 detailed freshwater profiles. Scores are uncalibrated suggestions. Best with a single side-on fish against a simple background; look-alike species and unfamiliar fish may be wrong. Never use a suggestion to decide whether a fish is safe to eat or legal to keep.</string>
+	<key>noCamera</key>
+	<string>Camera access is unavailable. Choose a photo instead, or enable the camera in Settings.</string>
+	<key>noProfile</key>
+	<string>Scientific label from the local model. Compare with an authoritative guide; this edition has no detailed profile for this species.</string>
+	<key>noRegion</key>
+	<string>Other regions are not covered by this offline edition.</string>
+	<key>noResults</key>
+	<string>No species found</string>
+	<key>notes</key>
+	<string>Field notes</string>
+	<key>notifyDenied</key>
+	<string>Notifications are disabled. You can enable them in system Settings.</string>
+	<key>offline</key>
+	<string>ON-DEVICE • OFFLINE</string>
+	<key>ok</key>
+	<string>OK</string>
+	<key>olive</key>
+	<string>Olive body, tiny scales, reddish eyes and rounded fins.</string>
+	<key>openSettings</key>
+	<string>Open Settings</string>
+	<key>peacockRule</key>
+	<string>Butterfly peacock bass: 2 per day; only one may be 17 in (43.2 cm) or longer.</string>
+	<key>photo</key>
+	<string>Choose a photo</string>
+	<key>photoDenied</key>
+	<string>Allow adding photos in Settings to export a find card.</string>
+	<key>pink</key>
+	<string>Pink lateral stripe and dark spots, including on the tail.</string>
+	<key>privacy</key>
+	<string>Privacy &amp; model</string>
+	<key>privacyBody</key>
+	<string>Photos and notes stay on this device. No account, tracking, advertising or uploads. Deleting a find removes its local photo. Backups follow your device settings. Widgets read only a local summary.</string>
+	<key>protectedRule</key>
+	<string>Alligator gar and grass carp: possession requires a permit; release immediately without one.</string>
+	<key>recent</key>
+	<string>Recent finds</string>
+	<key>red</key>
+	<string>Brown-gold sides with dark and often red spots.</string>
+	<key>region</key>
+	<string>Jurisdiction</string>
+	<key>reminderValue</key>
+	<string>Get a species reminder at 9:00 and a photo challenge on the first day of each season. Scheduled on this device; no server is involved.</string>
+	<key>reminders</key>
+	<string>Local reminders</string>
+	<key>rocks</key>
+	<string>Clear lakes and rivers with rocky cover. Feeds on crayfish and small fish.</string>
+	<key>ruleWarning</key>
+	<string>Statewide freshwater summary. Local waters, permits and protected species can have stricter rules. Verify official rules before keeping any fish. Photo recognition does not establish legal identity.</string>
+	<key>rules</key>
+	<string>Limits</string>
+	<key>sample</key>
+	<string>Try a sample photo</string>
+	<key>sampleNotSaved</key>
+	<string>Sample scans are not added to your statistics.</string>
+	<key>sampleNotice</key>
+	<string>Sample photo • Fishial model pack</string>
+	<key>saveNote</key>
+	<string>Save note</string>
+	<key>saved</key>
+	<string>Find saved</string>
+	<key>score</key>
+	<string>Model score, not certainty</string>
+	<key>search</key>
+	<string>Name or scientific name</string>
+	<key>seasonNote</key>
+	<string>Timing varies with latitude and water temperature. This is biology, not an open fishing season.</string>
+	<key>seasonRule</key>
+	<string>General freshwater season: 1 July–30 June, unless a specific rule says otherwise. Water-specific closures and species exceptions take precedence.</string>
+	<key>select</key>
+	<string>Choose species manually</string>
+	<key>settings</key>
+	<string>Preferences</string>
+	<key>size</key>
+	<string>Typical adult length</string>
+	<key>source</key>
+	<string>Official source</string>
+	<key>spawn</key>
+	<string>Spawning • Northern Hemisphere</string>
+	<key>speciesCount</key>
+	<string>Confirmed finds</string>
+	<key>speckle</key>
+	<string>Deep silvery body with irregular dark speckles.</string>
+	<key>spring</key>
+	<string>Spring</string>
+	<key>springSummer</key>
+	<string>Spring–summer</string>
+	<key>stats</key>
+	<string>Weekly field notes</string>
+	<key>suggestions</key>
+	<string>Possible matches</string>
+	<key>tagline</key>
+	<string>A field guide in your pocket.</string>
+	<key>uncertain</key>
+	<string>No confident match. Try a closer, well-lit side view or select a species from the guide.</string>
+	<key>verified</key>
+	<string>Checked 15 Nov 2026</string>
+	<key>weeds</key>
+	<string>Vegetated lakes, ponds and slow rivers. Ambushes prey near cover.</string>
+	<key>week</key>
+	<string>Scans this week</string>
+	<key>widgetDesc</key>
+	<string>A daily species, your collection and spawning notes.</string>
+	<key>widgetName</key>
+	<string>Fish ID field notes</string>
+</dict>
+</plist>

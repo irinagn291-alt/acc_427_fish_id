@@ -1,0 +1,4 @@
+Core ML and PyTorch agree: Tinca tinca
+Core ML top score 0.88037109375; PyTorch 0.88259160519
+Max deviation: 0.0022205114364624023
+Fixture from MIT Fishial v6 pack; this is conversion validation, not an independent accuracy benchmark.

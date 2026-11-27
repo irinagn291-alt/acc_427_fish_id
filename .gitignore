@@ -1,0 +1,6 @@
+Build/DerivedData/
+Tools/mlenv
+Tools/Fishial
+Tools/*.zip
+**/xcuserdata/
+.DS_Store
